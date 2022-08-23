@@ -1,0 +1,15 @@
+/.idea/vcs.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/QuandooProjectTestB.iml
+/quandoo.de/src/main/
+/quandoo.de/src/test/java/quandoo/de/pages/
+/quandoo.de/src/test/java/quandoo/de/JUnitTestBase.java
+/quandoo.de/src/test/java/quandoo/de/JUnitTestSuite.java
+/quandoo.de/src/test/java/quandoo/de/SampleJUnitTest.java
+/quandoo.de/src/test/java/quandoo/de/SuiteConfiguration.java
+/quandoo.de/src/test/resources/
+/quandoo.de/target/
+/quandoo.de/pom.xml
+/quandoo.de/quandoo.de.iml
